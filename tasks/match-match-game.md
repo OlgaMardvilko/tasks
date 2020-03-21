@@ -45,3 +45,7 @@
 ![Screen 1](http://rolling-scopes-school.github.io/tasks/images/match-match-game/image001.jpg)
 ![Screen 2](http://rolling-scopes-school.github.io/tasks/images/match-match-game/image002.jpg)
 ![Screen 3](http://rolling-scopes-school.github.io/tasks/images/match-match-game/image003.jpg)
+
+![Screen 3](http://rolling-scopes-school.github.io/tasks/images/match-match-game/image003.jpg)
+
+
