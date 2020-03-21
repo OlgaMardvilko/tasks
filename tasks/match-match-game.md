@@ -46,8 +46,8 @@
 ![Screen 2](http://rolling-scopes-school.github.io/tasks/images/match-match-game/image002.jpg)
 ![Screen 3](http://rolling-scopes-school.github.io/tasks/images/match-match-game/image003.jpg)
 ![Screen 4](https://github.com/OlgaMardvilko/tasks/blob/master/tasks/images/screen-1.png)
-![Screen 4](https://raw.githubusercontent.com/OlgaMardvilko/tasks/master/tasks/images/screen-1.png)
-https://raw.githubusercontent.com/OlgaMardvilko/tasks/master/tasks/images/screen-1.png
+![Screen 4](https://raw.githubusercontent.com/OlgaMardvilko/tasks/master/tasks/images/screen-2.png)
+
 
 
 
