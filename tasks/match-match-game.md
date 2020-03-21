@@ -1,6 +1,6 @@
 | Deadline  | Folder & Branch name |
 |-----------|-------------|
-| 23:59 ДД.ММ.2018 | match-match-game |
+| 27.03.2020 | match-match-game |
 
 ### Match-Match Game 
 
